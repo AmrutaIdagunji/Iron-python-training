@@ -26,4 +26,4 @@ Day 15 - transformations (Pivot/Unpivot and more)
 
 Day 16 - Import/Export Data and visuals
 
-Day 17 - Librayr Manipulation
+Day 17 - Library Manipulation
